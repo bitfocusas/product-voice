@@ -3,8 +3,20 @@
     "label": "Getting started",
     "children": [
       {
-        "label": "Before you open Voice",
-        "file": "1_gettingstarted/1_before_you_open.md"
+        "label": "Introduction",
+        "file": "1_gettingstarted/1_introduction.md"
+      },
+      {
+        "label": "Obtain a license",
+        "file": "1_gettingstarted/2_license.md"
+      },
+      {
+        "label": "Launch the app",
+        "file": "1_gettingstarted/3_launch.md"
+      },
+      {
+        "label": "The User Interface",
+        "file": "1_gettingstarted/4_ui.md"
       }
     ]
   }

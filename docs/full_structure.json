@@ -1,0 +1,115 @@
+[
+  {
+    "label": "Getting started",
+    "children": [
+      {
+        "label": "Introduction",
+        "file": "1_gettingstarted/1_introduction.md"
+      },
+      {
+        "label": "Obtain a license",
+        "file": "1_gettingstarted/2_license.md"
+      },
+      {
+        "label": "Launch the app",
+        "file": "1_gettingstarted/3_launch.md"
+      },
+      {
+        "label": "The User Interface",
+        "file": "1_gettingstarted/4_ui.md"
+      }
+    ]
+  },
+  {
+    "label": "Voices",
+    "children": [
+      {
+        "label": "Introduction",
+        "file": "2_voices/1_introduction.md"
+      },
+      {
+        "label": "Voice Types",
+        "file": "2_voices/2_voice_types.md"
+      }
+    ]
+  },
+  {
+    "label": "Timecode",
+    "children": [
+      {
+        "label": "Introduction",
+        "file": "3_timecode/1_introduction.md"
+      },
+      {
+        "label": "Syncing Devices",
+        "file": "3_timecode/2_syncing_devices.md"
+      }
+    ]
+  },
+  {
+    "label": "Setlists",
+    "children": [
+      {
+        "label": "Creating a Setlist",
+        "file": "4_setlists/1_creating_setlist.md"
+      },
+      {
+        "label": "Managing Setlists",
+        "file": "4_setlists/2_managing_setlists.md"
+      }
+    ]
+  },
+  {
+    "label": "Songs",
+    "children": [
+      {
+        "label": "Adding a Song",
+        "file": "5_songs/1_adding_song.md"
+      },
+      {
+        "label": "Editing a Song",
+        "file": "5_songs/2_editing_song.md"
+      }
+    ]
+  },
+  {
+    "label": "Timeline",
+    "children": [
+      {
+        "label": "Introduction",
+        "file": "6_timeline/1_introduction.md"
+      },
+      {
+        "label": "Creating Events",
+        "file": "6_timeline/2_creating_events.md"
+      }
+    ]
+  },
+  {
+    "label": "Internet Access",
+    "children": [
+      {
+        "label": "Being Offline",
+        "file": "7_internet_access/1_offline.md"
+      }
+    ]
+  },
+  {
+    "label": "Translations",
+    "children": [
+      {
+        "label": "Translations",
+        "file": "8_translations/1_translations.md"
+      }
+    ]
+  },
+  {
+    "label": "Logging",
+    "children": [
+      {
+        "label": "Quick Log (CMD+L)",
+        "file": "9_logging/1_quicklog.md"
+      }
+    ]
+  }
+]
