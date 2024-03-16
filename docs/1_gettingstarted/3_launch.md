@@ -1,7 +1,5 @@
 Download the app from user.bitfocus.io
 
-## launch the app
-
 Start by signing in, and apply a license, or register for a trial.
 
 ![Log in](../../manualscreenshots/license-1.png "Log in")
