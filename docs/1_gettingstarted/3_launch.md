@@ -1,8 +1,6 @@
-# download the app
-
 Download the app from user.bitfocus.io
 
-# launch the app
+## launch the app
 
 Start by signing in, and apply a license, or register for a trial.
 
@@ -10,6 +8,6 @@ Start by signing in, and apply a license, or register for a trial.
 ![Assign license](../../manualscreenshots/license-2.png "Assign License")
 ![Success](../../manualscreenshots/license-3.png "Success")
 
-# create a new project
+## create a new project
 
 ![Launcher](../../generated/screenshots/projectNavigator-1.png?raw=true "Launcher")

@@ -1,5 +1,3 @@
-# The User Interface
-
 The window is divided into 4 sections:
 
 - Setlist and song-navigator (Left)
