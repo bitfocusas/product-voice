@@ -1,6 +1,6 @@
 The window is divided into 4 sections:
 
-- Setlist and song-navigator (Left)
+- Setlist/Song-Navigator (Left)
 - Timeline / Waterfall (Bottom)
 - Editor (Center)
 - Status (Right)
