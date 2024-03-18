@@ -1,2 +1,2 @@
-# product-snapshot
-A snapshot tool with a rundown for Blackmagic Design ATEM switchers and companion
+# Bitfocus Voice
+The official public repository for documentation and issue tracking for Bitfocus Voice.
