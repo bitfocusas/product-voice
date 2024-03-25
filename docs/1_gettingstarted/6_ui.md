@@ -5,4 +5,4 @@ The window is divided into 4 sections:
 - Editor (Center)
 - Status (Right)
 
-![UI](../../generated/screenshots/editorWindow-3.png?raw=true "UI")
+![UI](../../generated/screenshots/editorWindow-3-ui.png "UI")
