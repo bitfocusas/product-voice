@@ -1,42 +1,47 @@
 [
   {
-    "label": "Introduction",
-    "file": "1_gettingstarted/1_introduction.md"
-  },
-  {
-    "label": "Obtain a License",
-    "file": "1_gettingstarted/2_license.md"
-  },
-  {
-    "label": "Installation",
-    "file": "1_gettingstarted/3_install.md"
-  },
-  {
-    "label": "Create a new project",
-    "file": "1_gettingstarted/4_newproject.md"
-  },
-  {
-    "label": "Inital Setup",
-    "file": "1_gettingstarted/5_wizard.md"
-  },
-  {
-    "label": "User Interface",
-    "file": "1_gettingstarted/6_ui.md"
-  },
-  {
-    "label": "Voice Setup",
-    "file": "1_gettingstarted/7_voice.md"
-  },
-  {
-    "label": "Create a Song",
-    "file": "1_gettingstarted/8_createsong.md"
-  },
-  {
-    "label": "Insert Statements",
-    "file": "1_gettingstarted/9_insertstatement.md"
-  },
-  {
-    "label": "Setup Timecode Input",
-    "file": "1_gettingstarted/10_setupltc.md"
+    "label": "Getting started",
+    "children": [
+      {
+        "label": "Introduction",
+        "file": "1_gettingstarted/1_introduction.md"
+      },
+      {
+        "label": "Obtain a License",
+        "file": "1_gettingstarted/2_license.md"
+      },
+      {
+        "label": "Installation",
+        "file": "1_gettingstarted/3_install.md"
+      },
+      {
+        "label": "Create a new project",
+        "file": "1_gettingstarted/4_newproject.md"
+      },
+      {
+        "label": "Inital Setup",
+        "file": "1_gettingstarted/5_wizard.md"
+      },
+      {
+        "label": "User Interface",
+        "file": "1_gettingstarted/6_ui.md"
+      },
+      {
+        "label": "Voice Setup",
+        "file": "1_gettingstarted/7_voice.md"
+      },
+      {
+        "label": "Create a Song",
+        "file": "1_gettingstarted/8_createsong.md"
+      },
+      {
+        "label": "Insert Statements",
+        "file": "1_gettingstarted/9_insertstatement.md"
+      },
+      {
+        "label": "Setup Timecode Input",
+        "file": "1_gettingstarted/10_setupltc.md"
+      }
+    ]
   }
 ]
